@@ -1,0 +1,12 @@
+dist/*
+.vscode
+.clang-format
+.clangd
+.editorconfig
+.env
+.ufbt
+.DS_Store
+
+# Exclure config et venv
+.config_git_push.json
+venv/
